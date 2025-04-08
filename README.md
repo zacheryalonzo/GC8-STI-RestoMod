@@ -1,4 +1,4 @@
-# Car-Builds
+# GC8 STI Build Restoration
 Progress of my car restorations
 # GC8 STI Build Log
 

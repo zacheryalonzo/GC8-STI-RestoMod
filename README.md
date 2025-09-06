@@ -17,7 +17,7 @@ This repo documents the restoration and performance build of my Subaru 1996 GC8 
 - **Fuel:** Flex-fuel kit (E85 capable), upgraded injectors and lines
 - **Electronics:** ECU tuned and prepped, custom harness mods
 - **Fabrication:** Custom intercooler from an 05 sti with IAT sensor, downpipe, TIG/MIG welding
-- **Interior:** Clean OEM+ with future plans for 3D printed trim replacements
+- **Interior:** Clean OEM+ (05 STI interior) with future plans for 3D printed trim replacements 
 
 ## Fabrication Projects
 - Exhaust mods (external WG dump)

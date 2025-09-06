@@ -13,7 +13,7 @@ This repo documents the restoration and performance build of my Subaru 1996 GC8 
 - **Engine:** EJ205 from an 02 wrx
 - **Turbo:** VF48 with external wastegate from 2018 STI
 - **Drivetrain:** 2005 STI full swap (front/rear subframes, hubs, brakes, R180)
-- **Suspension:** RACELAND Coilovers, whiteline suspension with all new bushings
+- **Suspension:** BC Racing Coilovers, whiteline suspension with all new bushings
 - **Fuel:** Flex-fuel kit (E85 capable), upgraded injectors and lines
 - **Electronics:** ECU tuned and prepped, custom harness mods
 - **Fabrication:** Custom intercooler from an 05 sti with IAT sensor, downpipe, TIG/MIG welding
